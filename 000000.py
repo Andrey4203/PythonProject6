@@ -51,7 +51,7 @@ def tic_tac_toe():
     for turn in range(9):
         print(f" Ход игрока {current_player}")
 
-git
+
         row = int(input("номер строки: "))
         col = int(input("номер столбца: "))
 
